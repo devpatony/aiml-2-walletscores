@@ -263,11 +263,6 @@ Final Score ∈ [0,1000] (0 = lowest risk)
 | **401-600** | 🟠 Medium Risk | Moderate experience, some concerns | Average activity, limited protocol experience |
 | **601-800** | 🔴 High Risk | Limited experience or poor patterns | Low activity, minimal DeFi experience, high failure rates |
 | **801-1000** | ⚫ Very High Risk | New users or problematic behavior | Very limited activity, no protocol experience, errors |
-├── compound_data_fetcher.py        # Data collection module
-├── risk_scorer.py                  # Risk scoring engine
-├── METHODOLOGY.md                  # Detailed methodology explanation
-├── .env.example                    # Environment variables template
-└── README.md                       # This file
 ```
 
 ## Output
